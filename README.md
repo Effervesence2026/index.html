@@ -1,2 +1,0 @@
-# Operation-Singularity
-#Sing101
